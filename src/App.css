@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  padding: 40px;
+  font-family: sans-serif;
+}
+
+.coin {
+  font-size: 40px;
+  padding: 20px;
+  border-radius: 20px;
+  border: none;
+  background: gold;
+  cursor: pointer;
+}
